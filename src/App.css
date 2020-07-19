@@ -1,0 +1,20 @@
+
+body{
+  background-color: rgb(216, 216, 45);
+   margin-top: 50;
+
+  
+}
+.login
+{
+  margin-top: 500;
+}
+
+.App {
+  text-align: center;
+}
+
+.button
+{
+  border-radius: 500px;
+}
